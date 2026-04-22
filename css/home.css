@@ -161,7 +161,7 @@ a {
     position: absolute;
     margin-top: 36%;
     background: black;
-    right: 25%;
+    right: 20%;
     z-index: 2;
     border-radius: 999px;
 }
@@ -188,7 +188,7 @@ a {
     position: absolute;
     margin-top: 46%;
     background: #5564eb;
-    right: 25%;
+    right: 20%;
     z-index: 2;
     border-radius: 999px;
 }
